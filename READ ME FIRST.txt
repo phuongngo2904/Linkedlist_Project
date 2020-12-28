@@ -1,0 +1,22 @@
+	GENERAL IDEAS OF OUR PROJECT
++ This program is a simulation of a course in SJSU. 
+
++ When you first run the program, you will 
+pick either you are a professor or you are a student( password to be a professor is yesiam).
+ 
++ Each option will have multiple functions. 
+
++ As a student, you can only see the information of the student which you can find his/her name 
+in a file called studentlist.txt.
+
++ You can also test his/her grade based on his/her current grade(current grade = (mid1 + mid2)/2
+
++ As a professor, you can see the entire student list + waiting list.
+
++ As a professor, you can add student or drop student.
+
++ As a professor, you can list all student in ascending order based on their grades or their names.
+
++ As a professor, you can reverse the list after sorting.
+
++ As a professor, you can save everything in a file.
