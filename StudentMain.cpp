@@ -13,8 +13,8 @@ int main() {
 	double mid1,mid2;
 	int wait_list=0;
 	linkedlist cmp126,wlist;
-	infile.open("src/studentlist.txt");
-	waitlist.open("src/waitlist.txt");
+	infile.open("studentlist.txt");
+	waitlist.open("waitlist.txt");
 
 	if(waitlist.fail())
 	{
